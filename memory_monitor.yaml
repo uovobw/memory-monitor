@@ -1,0 +1,25 @@
+process-names:
+    [
+        inter,
+        score,
+        mpp,
+        vvdb,
+        intercom4hd,
+        vtnt,
+        adv,
+        upload,
+        chromium-browse,
+        BowlingPlus,
+        XGLauncher,
+        node,
+        mplayer
+    ]
+
+directory-names: 
+    [
+        /tmp/
+    ]
+
+sleep-time: 30
+
+
