@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES="psutil yaml monitor.py 32bitlib/_psutil_linux.so 32bitlib/_psutil_posix.so memory_monitor.yaml"
+FILES="run.sh psutil yaml monitor.py 32bitlib/_psutil_linux.so 32bitlib/_psutil_posix.so memory_monitor.yaml"
 TMPDIR="memory_monitor"
 
 mkdir $TMPDIR
